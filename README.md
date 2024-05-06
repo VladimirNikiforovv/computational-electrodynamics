@@ -6,7 +6,7 @@
 <img src='refractive_on_photonic_crystal.gif' width=500, heigth=500>
 Распределение поля Ez в этой области.
 
-[Пример как это расчитать.](https://github.com/VladimirNikiforovv/Finite-element-method/blob/main/FEM_2D_Schrodinger_Equation.ipynb)
+[Пример как это расчитать.](https://github.com/VladimirNikiforovv/computational-electrodynamics/blob/main/example.ipynb)
 
 ## Выводимые результаты  ##
 
